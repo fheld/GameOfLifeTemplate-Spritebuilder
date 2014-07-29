@@ -77,8 +77,6 @@
 	<dict>
 		<key></key>
 		<dict>
-			<key>isDirty</key>
-			<true/>
 			<key>previewFolderHidden</key>
 			<false/>
 		</dict>
@@ -86,8 +84,6 @@
 		<dict/>
 		<key>ccbResources</key>
 		<dict>
-			<key>isDirty</key>
-			<true/>
 			<key>previewFolderHidden</key>
 			<false/>
 		</dict>
